@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+.header{
+    max-width: 1140px;
+    width: 100%;
+    margin: auto;
+    background: #322E41;
+}
+
+.nav_content{
+    display: flex;
+    justify-content: space-between;
+}
